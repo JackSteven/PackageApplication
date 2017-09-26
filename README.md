@@ -18,4 +18,4 @@ chmod +x /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/
 2句分开执行
 
 最后附上PackageApplication下载地址：
-
+https://github.com/JackSteven/PackageApplication/blob/master/PackageApplication.zip
